@@ -3,7 +3,8 @@
 A basic GPX analyser with the @we-gold/gpxjs library.
 Showing the total distance, elevation gain, duration and average speed.
 
-Output:
+## Output:
+
 You finished your "ACTIVITY TYPE" activity with a total ride time of: "DURATION CONVERTED TO HH:MM:SS"
 You covered a total distance of: "TOTAL DISTANCE IN KM"
 With an average speed of: "AVERAGE SPEED" km/h
